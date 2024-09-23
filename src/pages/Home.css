@@ -1,0 +1,7 @@
+.home .card {
+    padding: 20px;
+    border: 1px solid #faf9f9;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
